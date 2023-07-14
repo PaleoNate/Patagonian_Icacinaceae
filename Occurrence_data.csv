@@ -1,0 +1,46 @@
+Genus,Species/Occurence,Reference,Locality/Formation,Longitude,Latitude,Paleolongitude,Paleolatitude,Organ,Continent,Mya,Epoch,Age,Confidence,Notes
+Palaeophytocrene,Palaeophytocrene ga,this study,Estancia Las Violetas (Argentina),-66.983,-45.067,,-50.52703,endocarp,SAM,61.6,Paleocene,Danian,high,one specimen
+Palaeophytocrene,Palaeophytocrene hammenii,Stull et al 2012,Bogota Formation (Colombia),-73.8467,5.0146,,-0.19702,endocarp,SAM,59.2,Paleocene,mid-late Paleocene,high,baesd on single carbonized endocarp
+Palaeophytocrene,Phytocrene sp,Stull et al 2012,Bogota Formation (Colombia),-72.08333,11.0167,,5.75823,endocarp,SAM,59.2,Paleocene,mid-late Paleocene,high,based on single fragmented carbonized endocarp impression
+Palaeophytocrene,Palaeophytocrene piggae,Stull et al 2012,Sentinel Butte Formation (ND),-101.504833,46.9202,,48.26484,endocarp,NAM,56,Paleocene,late Paleocene,high,based on 10 endocarps; most are compressions/impressions; 3 are permineralized
+Palaeophytocrene,Palaeophytocrene sp.,Crane et al. 1990,Sentinel Butte Formation (ND),-101.504833,46.9202,,48.26484,endocarp,NAM,56,Paleocene,late Paleocene,high,single specimen; other similar described by Brown (1962 p91pl67fig26
+Palaeophytocrene,Palaeophytocrene foveolata,Chandler 1961,Herne Bay Kent (England),1.1278,51.3709,,47.72811,endocarp,EUR,47.8,Eocene,Ypresian,high,abraded locule-cast
+Palaeophytocrene,Palaeophytocrene foveolata,Reid and Chandler 1933,London Clay (England),0.906,51.413,,47.75927,endocarp,EUR,47.8,Eocene,Ypresian,high,twenty-five specimens
+Palaeophytocrene,Palaeophytocrene foveolata var. minima,Reid and Chandler 1933,London Clay (England),0.906,51.413,,47.75927,endocarp,EUR,47.8,Eocene,Ypresian,high,"six specimens; distinctly smaller than the 25 P. foveolata and have fewer larger pits plate XV, fig 33"
+Palaeophytocrene,Palaeophytocrene ambigua,Reid and Chandler 1933,London Clay (England),0.906,51.413,,47.75927,endocarp,EUR,47.8,Eocene,Ypresian,high,one perfect locule cast
+Stizocarya,Stizocarya communis,Reid and Chandler 1933,London Clay (England),0.906,51.413,,47.75927,endocarp,EUR,47.8,Eocene,Ypresian,high,180 specimens; very common; placed in a distinct genus within Phytocrene but nobody has done any work on them since (stull 2012); highly pyritized; hair-base associated with each pit
+Stizocarya,Stizocarya oviformis,Reid and Chandler 1933,London Clay (England),0.906,51.413,,47.75927,endocarp,EUR,47.8,Eocene,Ypresian,high,one specimen peculiar broad form and small size; may simply be a distorted specimen of S. communis
+Palaeophytocrene,Palaeophytocrene lacunosum,MacGinitie 1941 1969,Chalk Bluffs Buckeye Flat Independence Hill (CA),-120.8989,39.2092,,40.94767,endocarp,NAM,41.2,Eocene,late-early Eocene,high,one specimen
+Palaeophytocrene,Palaeophytocrene foveolata,Chandler 1961,Bognor Aldwick Sussex (England),-0.6731,50.783,,46.36394,endocarp,EUR,41.2,Eocene,early-mid Eocene,high,single endocarp worn around edges
+Palaeophytocrene,Palaeophytocrene foveolata,Chandler 1961,Bognor Aldwick Sussex (England),-0.6731,50.783,,46.36394,endocarp,EUR,41.2,Eocene,early-mid Eocene,high,imperfect locule-cast
+Palaeophytocrene,Palaeophytocrene ambigua,Chandler 1961,Clapham West Sussex (England),-0.1386,51.4623,,47.06943,endocarp,EUR,41.2,Eocene,early-mid Eocene,high,one broken locule cast
+Phytocrene,Phytocrene densipunctata,Stull et al 2011,Wilbanks II Clay Pit (TN),-88.54666,36.2928,,34.177,endocarp,NAM,37.8,Eocene,middle Eocene,high,single endocarp incompletely preserved as flattened impression (should this be Palaeophytocrene)?
+Phytocrene,Phytocrene punctilinearis,Collinson et al 2012,Messel (Germany),8.756,49.917,-5.10538,46.74511,endocarp,EUR,47,Eocene,middle Eocene,high,
+Palaeophytocrene,Palaeophytocrene hancockii,Manchester 1994,Clarno Nut Beds (OR) ,-120.42611,44.9433,,46.1763,endocarp,NAM,37.8,Eocene,middle Eocene,high,~15 specimens
+Palaeophytocrene,Palaeophytocrene pseudopersica,Manchester 1994,Clarno Nut Beds (OR) ,-120.42611,44.9433,,46.1763,endocarp,NAM,37.8,Eocene,middle Eocene,high,abundant locule casts and perminalized specimens
+Pyrenacantha,Pyrenecantha occidentalis,Manchester 1994,Clarno Nut Beds (OR) ,-120.42611,44.9433,,46.1763,endocarp,NAM,37.8,Eocene,middle Eocene,high,first description of Pyrenantha in N. America; several specimes
+Palaeophytocrene,Palaeophytocrene foveolata,Scott 1954,Clarno Nut Beds (OR) ,-120.42611,44.9433,,46.1763,endocarp,NAM,37.8,Eocene,Eocene,high,six specimens
+Palaeophytocrene,Palaeophytocrene pseudopersica,Scott 1954,Clarno Nut Beds (OR) ,-120.42611,44.9433,,46.1763,endocarp,NAM,37.8,Eocene,Eocene,high,three locule casts
+Palaeophytocrene,Palaeophytocrene hancockii,Scott 1954,Clarno Nut Beds (OR) ,-120.42611,44.9433,,46.1763,endocarp,NAM,37.8,Eocene,Eocene,high,single specimen
+Palaeophytocrene,Palaeophytocrene cf. pseudopersica,Rankin et al 2008,Appian Way Oyster Bay Formation (BC),-125.17777,49.9117,,51.59461,endocarp,NAM,37.8,Eocene,late Paleocene to mid-late Eocene,high,five specimens
+Palaeophytocrene,Palaeophytocrene sp.,Pigg and Wehr 2002,Roslyn Formation (WA),-121.0234,47.2351,,48.14239,endocarp,NAM,33.9,Eocene,Eocene,high,
+Palaeophytocrene,Palaeophytocrene vancouverensis,Rankin et al 2008,Appian Way Oyster Bay Formation (BC),-125.17777,49.9117,,51.20381,endocarp,NAM,33.9,Eocene,Eocene,high,three specimens
+Palaeophytocrene,Palaeophytocrene manchesteri,Rankin et al 2008,Appian Way Oyster Bay Formation (BC),-125.17777,49.9117,,51.20381,endocarp,NAM,33.9,Eocene,Eocene,high,five specimens
+Palaeophytocrene,Palaeophytocrene foveolata,Chandler 1962,Lower Bagshot Beds Hampshire Basin Hamworthy (England),-2.0109,50.7197,,46.96574,endocarp,EUR,33.9,Eocene,Eocene,high,one incomplete specimen
+Palaeophytocrene,Palaeophytocrene foveolata,Chandler 1961,Warden Point Sheppey (England),0.906,51.413,,47.80841,endocarp,EUR,33.9,Oligocene,late Eocene to Oligocene,high,five locule-casts
+Palaeophytocrene,Palaeophytocrene elytraeformis,Wolfe 1977,Kulthieth formation loc 3879 (AK),-145.7525,60.5424,,63.64438,endocarp,NAM,33.9,Eocene,late Eocene ,high,single specimen very poor photograph quality making it hard to distinguish pits at all
+Pyrenacantha,Pyrenacantha austroamericana,Stull et al 2012,Belen Flora (Peru),-81.236983,-4.7499,,2.04551,endocarp,SAM,33.9,Oligocene,late-early Oligocene,high,based on single fragmentary carbonate-infiltrated endocarp
+Pyrenacantha,Pyrenacantha simonsii,Stull et al 2020,Jebel Qatrani (Egypt),30.6346,29.639,,29,endocarp,SAF,30,Oligocene,early Oligocene,high,2 specimens
+Palaeophytocrene,Palaeophytocrene sp. ,Rozefelds et al 2021,Launceston area (Australia),147.15,-41.43,143.52218,-56.84964,endocarp,AUS,35,Eocene,late Eocene,high,
+Manchesteria ,Manchesteria australis ,Rozefelds et al 2021,Poole Creek palaeochannel (Australia),137.67,-28.633,122.23106,-49.25822,endocarp,AUS,50,Eocene,middle Eocene,high,
+Palaeophytocrene,Palaeophytocrene kressenbergensis,Tichy 1979,St Pankraz (Austria),12.9251,47.724,-0.59772,44.17799,endocarp,EUR,45,Eocene,Eocene,high,
+Palaeophytocrene,Palaeophytocrene sp.,Herrera 2014,Cucracha Fm Panama Canal (Panama),-79.66,9.055,-81.76563,6.14975,endocarp,CTG,18,Miocene,early Miocene,high,dissertation
+Palaeophytocrene,Palaeophytocrene sp.,Meyer and Manchester 1997,Iron Mountain John Day Formation (OR),-120.406506,44.84016,,9,endocarp,NAM,32.2,Oligocene,early Oligocene,high,
+Palaeophytocrene,Palaeophytocrene sp.,Tichy 1979,St Pankraz (Austria),12.9251,47.724,-0.59772,44.17799,endocarp,EUR,45,Eocene,Eocene,high,
+Palaeophytocrene,Palaeophytocrene sp.,Del Rio and de Franceschi 2020,Gres de Belleu Formation (France),3.338309,49.354976,-9.71681,45.31728,endocarp,EUR,47,Eocene,upper Ypresian,high,
+Palaeophytocrene,Palaeophytocrene sp.,Collinson et al 2012,Messel (Germany),8.756,49.917,-5.10538,46.74511,endocarp,EUR,47,Eocene,middle Eocene,high,
+Perforatocarpum,Perforatocarpum echinatum,Stull et al 2016,Sheppey London Clay (England),0.834167,51.4256,,0.9,endocarp,EUR,53.5,Eocene,Eocene,high,
+Pyrenacantha,Pyrenacantha sp. 1,Collinson et al 2012,Messel (Germany),8.756,49.917,-5.10538,46.74511,endocarp,EUR,47,Eocene,middle Eocene,high,
+Pyrenacantha,Pyrenacantha sp. 2,Collinson et al 2012,Messel (Germany),8.756,49.917,-5.10538,46.74511,endocarp,EUR,47,Eocene,middle Eocene,high,
+Pyrenacantha,Pyrenacantha sp. 3,Collinson et al 2012,Messel (Germany),8.756,49.917,-5.10538,46.74511,endocarp,EUR,47,Eocene,middle Eocene,high,
+Palaeophytocrene,Paleophytocreneae sp.,Atkinson et al in review ,California,-121.5,38.58,-105.21624,50.92305,endocarp,NAM,83,Late Cretaceous,Turonian,high,
